@@ -96,6 +96,7 @@ A hands-on course covering 30 essential algorithms in Python, combining foundati
 ├── python_algorithms.py        # Python script version of the algorithms
 ├── README.md                   # Course overview and structure
 ```
+
 ---
 
 ## 📫 Contact  
