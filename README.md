@@ -91,15 +91,11 @@ A hands-on course covering 30 essential algorithms in Python, combining foundati
 ## 📂 Repository Structure
 
 ```
-## 📂 Repository Structure
-
-```
 /algorithms-course
 ├── Python_Algorithms.ipynb     # Jupyter notebook with algorithm code and explanations
 ├── python_algorithms.py        # Python script version of the algorithms
 ├── README.md                   # Course overview and structure
 ```
-
 ---
 
 ## 📫 Contact  
